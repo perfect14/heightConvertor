@@ -1,0 +1,49 @@
+body{
+    background-image: url(image1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 850px;
+
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    position: relative;
+   margin: 50px 300px 0px 500px;
+   background-color: red;
+}
+
+.feet {
+    margin:15px 30px 10px 70px ;
+}
+.inches{
+    margin:15px 30px 10px 70px ;
+}
+
+label{
+    margin:20px 50px 10px 70px ;
+    font-size: 30px;
+}
+
+input{
+    height: 30px;
+    border-radius: 20px;
+}
+
+button {
+    margin-left: 60px;
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #00BCD4;
+}
+
+
+
+p{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
